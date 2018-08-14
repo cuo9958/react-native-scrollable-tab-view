@@ -1,6 +1,9 @@
 
-## react-native-scrollable-tab-view
+## react-native-scrollable-tab-view2
 [![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)
+
+> fork from react-native-scrollable-tab-view
+> 兼容android手机不支持ViewPagerAndroid的情况
 
 This is probably my favorite navigation pattern on Android, I wish it
 were more common on iOS! This is a very simple JavaScript-only
